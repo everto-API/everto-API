@@ -1,8 +1,10 @@
-## Sup!
+# Welcome to my GitHub Profile!
 
-My name is Everton and that is it xD
-(I will add some other things here later)
+## About Me
+My name is Everton and I'm coursing **Applied and Computacional Math**. I have a passion about *Progamming* and *Games* since my childhood.
 
+- **Currently** : Working as Administrative Supervisor on **_Secretariat for the Environment and Climate Action_** (Aracaju, Sergipe)
 
-![madeline](https://github.com/user-attachments/assets/876ed03b-1509-49ea-91d3-b202fdfb3729)
-![badline](https://github.com/user-attachments/assets/24fbf624-ccff-40cd-9a34-973d0a3407df)
+##
+> **"Reject common sense to make the impossible possible!"**
+>> Kamina (Tengen Toppa Gurren Lagann)
