@@ -7,4 +7,4 @@ My name is Everton and I'm coursing **Applied and Computacional Math**. I have a
 
 ##
 > **"Reject common sense to make the impossible possible!"**
->> Kamina (Tengen Toppa Gurren Lagann)
+![kamina](https://github.com/user-attachments/assets/c83af2d5-2145-4dc2-b7a6-571e412064c2)
