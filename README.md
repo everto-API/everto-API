@@ -15,7 +15,7 @@ My name is Everton and I'm coursing **Applied and Computacional Math**. I have a
 My future goals is to consolidate on the technology world as a _Progammer_ and become a _GameDev_ for hobby. I want to have a nice job that makes me have a good life.
 
 
-># **"Reject common sense to make the impossible possible!"**
+# **"Reject common sense to make the impossible possible!"**
 Kamina (Tengen Toppa Gurren Lagann)
 
 ![kamina](https://github.com/user-attachments/assets/c83af2d5-2145-4dc2-b7a6-571e412064c2)
