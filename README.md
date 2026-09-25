@@ -5,10 +5,8 @@ My name is Everton and I'm coursing **Applied and Computacional Math**. I have a
 
 ## **Currently**
 - Working as Administrative Supervisor on **_Secretariat for the Environment and Climate Action_** (Aracaju, Sergipe);
-- On my 3rd period of **_Math Applied and Computacional_**;
-- Studying **_Python_** (and extra modules) and **_PostgreSQL_**;
-- Playing Hollow Knight and [Mindustry](https://github.com/Anuken/Mindustry)
-- Making a to-do Project called [TaskTracker](https://github.com/everto-API/Project_TaskTracker)
+- On my 4th period of **_Math Applied and Computacional_**;
+- Playing Minecraft;
 
 
 ## Future
